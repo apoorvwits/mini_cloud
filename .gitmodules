@@ -1,0 +1,12 @@
+[submodule "smart-resto-app"]
+	path = smart-resto
+	url = https://github.com/appu1322/smartresto.git
+	branch = develop
+[submodule "ref-logistics-app-frontend"]
+	path = ref-logistics-app-frontend
+	url = https://oauth:glpat-VoV8W5CzYnH9wwMRWydj@gitlab.thewitslab.com/wil-workspace/wil-ondc/ondc-logistic-sdk/ref-logistics-app-frontend.git
+	branch = develop
+[submodule "ref-logistics-app-protocol"]
+	path = ref-logistics-app-protocol
+	url = https://oauth:glpat-VoV8W5CzYnH9wwMRWydj@gitlab.thewitslab.com/wil-workspace/wil-ondc/ondc-logistic-sdk/ref-logistics-app-protocol.git
+	branch = develop
